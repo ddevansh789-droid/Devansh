@@ -1,2 +1,2 @@
-# Devansh
-I'm currently learning Ai skills 
+hi, I'm devansh 
+Currently learning Python & AI
